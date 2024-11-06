@@ -1,6 +1,8 @@
 # sustainable_tourism_recommender
 To develop a recommendation system for sustainable tourism.
 
+Please check Folder for Phase 2
+
 Team Number: 19
 
 Team Member 1  
