@@ -7,28 +7,39 @@ Team Member 1
 Name: Hari Chandan Gooda  
 UBIT: 50614165
 Question: Predicting Rating Classification Using Decision Tree
+
 Code Location : Phase_3_Notebook.ipynb 13th-14th cell
+
 Analysis Location : 3rd Question in Analysis.pdf
 
 Team Member 2  
 Name: Pramila Yadav  
 UBIT: 50613803
+
 Question: Popular Times Classification for Each Hour Using KNN
+
 Code Location : Phase_3_Notebook.ipynb 10th cell
+
 Analysis Location : 4th Question in Analysis.pdf
 
 Team Member 3  
 Name: Keshav Narayan Srinivasan  
 UBIT: 50610509  
+
 Question: Predicting Working Hours from Popular Times Data using Random Forest
+
 Code Location : Phase_3_Notebook.ipynb 6th-9th cell
+
 Analysis Location : 1st Question in Analysis.pdf
 
 Team Member 4  
 Name: Tharunnesh Ramamoorthy  
 UBIT: 50611344
+
 Question: Closest 5 Places for Each Place Using BallTree
+
 Code Location : Phase_3_Notebook.ipynb 11th cell
+
 Analysis Location : 2nd Question in Analysis.pdf
 
 Folder Structure Information:
