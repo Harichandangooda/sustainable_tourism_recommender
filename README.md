@@ -50,10 +50,15 @@ The app folder contains the app code and the Python Notebook consisting of runni
 Instructions to run the application:
 
 Kindly install the following libraries using the following commands if needed:
+
 pip install streamlit
+
 pip install psycopg2
+
 pip install sqlalchemy
+
 pip install folium
+
 (Use Python 3.12 if possible)
 
 Open the app folder in vscode and use the following command:
