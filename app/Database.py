@@ -4,10 +4,10 @@ from sqlalchemy import create_engine
 import pandas as pd
 import ast
 
-DB_HOST = "34.55.113.234"
+DB_HOST = ""
 DB_NAME = "postgres"
 DB_USER = "postgres"
-DB_PASS = "dicproject"
+DB_PASS = ""
 DB_PORT = 5432
 
 @st.cache_resource
