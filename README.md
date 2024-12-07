@@ -42,6 +42,8 @@ Code Location : Phase_3_Notebook.ipynb 11th cell
 
 Analysis Location : 2nd Question in Analysis.pdf
 
+Note: The code that everybody wrote was combined and a single team member pushed the changes. We are adding this note to avoid any confusion.
+
 Folder Structure Information:
 
 The app data is contained within the app folder (/app) and Phase 1 and Phase 2 files are stored in the exp folder respectively(/exp/Phase_1 and /exp/Phase_2).
