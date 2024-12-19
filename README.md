@@ -1,6 +1,7 @@
+# sustainable_tourism_recommender
+
 **Kindly Note:** We have used Google Cloud SQL to store the csv as a table in our PostgreSQL database, so we have not included the Host address and Password in the GitHub code for safety reasons. The UBLearns submission code has the host address and Password included to run the code :)
 
-# sustainable_tourism_recommender
 Travel Smart: Developing a Recommendation System for Promoting Sustainable Tourism
 
 Team Number: 19
