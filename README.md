@@ -1,3 +1,5 @@
+**Kindly Note:** We have used Google Cloud SQL to store the csv as a table in our PostgreSQL database, so we have not included the Host address and Password in the GitHub code for safety reasons. The UBLearns submission code has the host address and Password included to run the code :)
+
 # sustainable_tourism_recommender
 Travel Smart: Developing a Recommendation System for Promoting Sustainable Tourism
 
@@ -70,4 +72,11 @@ python -m streamlit run Database.py.
 
 You can see the video attached in the ublearns submission to understand how our app works and what it does (Since Github restricted files to 20mb we uploaded it in the zip file).
 
-Kindly Note: We have used Google Cloud SQL to store the csv as a table in our PostgreSQL database, so we have not included the Host address and Password in the GitHub code for safety reasons. The UBLearns submission code has the host address and Password included to run the code :)
+**Highlights:** 
+1_Recommendation_system.py in /app/pages: Processing the recommended itinerary (line 82); getting the nearest neighbors (alternative places) (line 68); presenting the itinerary map (line 132).
+
+Database.py in /app: Deploying and persisting the database in Google Cloud SQL and constructing an interface that allows us to add entry (line 41); modify entry (line 89); remove entry (line 120) - basically, whole of Database.py plays a significant role in our project.
+
+The database used for the recommendation system is developed in /app/Phase_3_Notebook.py.
+
+Analysis of the recommendation system has been provided in /app/pages/2_Analysis_of_Recommendation_System.py.
